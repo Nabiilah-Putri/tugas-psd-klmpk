@@ -3,3 +3,4 @@ pandas
 plotly
 numpy
 statsmodels
+xlrd==2.0.1
